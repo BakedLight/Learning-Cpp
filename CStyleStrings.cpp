@@ -27,6 +27,6 @@ int main() {
     // if size in getline is less than input given, it takes input only till the number of characters needed by getline function
     cout << name << endl;
     }
-
+    
     return 0;
 }
